@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NPC.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="69" Column="29" />
+      <File FileName="Assets/QuestGiver.cs" />
+      <File FileName="Assets/NPC.cs" Line="14" Column="1" />
+      <File FileName="Assets/QuestGoal.cs" />
+      <File FileName="Assets/Quest.cs" />
+      <File FileName="Assets/GoblinController.cs" />
+      <File FileName="Assets/Movement.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A2" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="NPC.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e00624e0-c549-475f-ab22-0b2c4565912c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
